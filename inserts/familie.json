@@ -1,0 +1,141 @@
+{
+    "topic": "Familie",
+    "words": [
+        { "word": "Familie", "gender": "f", "translations": { "ua": "сім'я", "en": "family" } },
+        { "word": "Vater", "gender": "m", "translations": { "ua": "батько", "en": "father" } },
+        { "word": "Mutter", "gender": "f", "translations": { "ua": "мати", "en": "mother" } },
+        { "word": "Bruder", "gender": "m", "translations": { "ua": "брат", "en": "brother" } },
+        { "word": "Schwester", "gender": "f", "translations": { "ua": "сестра", "en": "sister" } },
+        { "word": "Kind", "gender": "n", "translations": { "ua": "дитина", "en": "child" } },
+        { "word": "Sohn", "gender": "m", "translations": { "ua": "син", "en": "son" } },
+        { "word": "Tochter", "gender": "f", "translations": { "ua": "дочка", "en": "daughter" } },
+        {
+            "word": "Elternteil",
+            "gender": "m",
+            "translations": { "ua": "один із батьків", "en": "parent" }
+        },
+        {
+            "word": "Großvater",
+            "gender": "m",
+            "translations": { "ua": "дідусь", "en": "grandfather" }
+        },
+        {
+            "word": "Großmutter",
+            "gender": "f",
+            "translations": { "ua": "бабуся", "en": "grandmother" }
+        },
+        { "word": "Onkel", "gender": "m", "translations": { "ua": "дядько", "en": "uncle" } },
+        { "word": "Tante", "gender": "f", "translations": { "ua": "тітка", "en": "aunt" } },
+        {
+            "word": "Cousin",
+            "gender": "m",
+            "translations": { "ua": "двоюрідний брат", "en": "male cousin" }
+        },
+        {
+            "word": "Cousine",
+            "gender": "f",
+            "translations": { "ua": "двоюрідна сестра", "en": "female cousin" }
+        },
+        { "word": "Ehemann", "gender": "m", "translations": { "ua": "чоловік", "en": "husband" } },
+        { "word": "Ehefrau", "gender": "f", "translations": { "ua": "дружина", "en": "wife" } },
+        { "word": "Enkel", "gender": "m", "translations": { "ua": "ону́к", "en": "grandson" } },
+        {
+            "word": "Enkelin",
+            "gender": "f",
+            "translations": { "ua": "ону́ка", "en": "granddaughter" }
+        },
+        { "word": "Hochzeit", "gender": "f", "translations": { "ua": "весілля", "en": "wedding" } }
+    ],
+    "verbs": [
+        {
+            "word": "leben",
+            "translations": { "ua": "жити", "en": "to live" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "lebt",
+            "praeteritum_3sg": "lebte",
+            "perfekt_form": "gelebt"
+        },
+        {
+            "word": "lieben",
+            "translations": { "ua": "кохати", "en": "to love" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "liebt",
+            "praeteritum_3sg": "liebte",
+            "perfekt_form": "geliebt"
+        },
+        {
+            "word": "heiraten",
+            "translations": { "ua": "одружуватися", "en": "to marry" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "heiratet",
+            "praeteritum_3sg": "heiratete",
+            "perfekt_form": "geheiratet"
+        },
+        {
+            "word": "besuchen",
+            "translations": { "ua": "відвідувати", "en": "to visit" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "besucht",
+            "praeteritum_3sg": "besuchte",
+            "perfekt_form": "besucht"
+        },
+        {
+            "word": "helfen",
+            "translations": { "ua": "допомагати", "en": "to help" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "hilft",
+            "praeteritum_3sg": "half",
+            "perfekt_form": "geholfen"
+        },
+        {
+            "word": "aufwachsen",
+            "translations": { "ua": "дорослішати", "en": "to grow up" },
+            "auxiliary_verb": "sein",
+            "is_irregular": true,
+            "presens_3sg": "wächst auf",
+            "praeteritum_3sg": "wuchs auf",
+            "perfekt_form": "aufgewachsen"
+        },
+        {
+            "word": "kennenlernen",
+            "translations": { "ua": "знайомитися", "en": "to get to know" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "lernt kennen",
+            "praeteritum_3sg": "lernte kennen",
+            "perfekt_form": "kennengelernt"
+        },
+        {
+            "word": "bekommen",
+            "translations": { "ua": "отримувати", "en": "to receive" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "bekommt",
+            "praeteritum_3sg": "bekam",
+            "perfekt_form": "bekommen"
+        },
+        {
+            "word": "einladen",
+            "translations": { "ua": "запрошувати", "en": "to invite" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "lädt ein",
+            "praeteritum_3sg": "lud ein",
+            "perfekt_form": "eingeladen"
+        },
+        {
+            "word": "feiern",
+            "translations": { "ua": "святкувати", "en": "to celebrate" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "feiert",
+            "praeteritum_3sg": "feierte",
+            "perfekt_form": "gefeiert"
+        }
+    ]
+}

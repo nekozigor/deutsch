@@ -1,0 +1,236 @@
+.home {
+    max-width: 64rem;
+    margin: 0 auto;
+    padding: 4rem 2rem 2rem;
+}
+
+.home__title {
+    margin: 0 0 2rem;
+    color: var(--text-h);
+    text-align: center;
+}
+
+.home__menu {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+    gap: 1.25rem;
+}
+
+.home__group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1.25rem;
+    border: 1px solid #d8cde8;
+    border-radius: 0.75rem;
+    background: white;
+    box-shadow:
+        0 4px 0 #b9a6d1,
+        0 6px 10px rgb(34 18 54 / 10%);
+}
+
+.home__group h2 {
+    margin: 0 0 0.25rem;
+    color: var(--text-h);
+    font-size: 1.25rem;
+}
+
+.language-picker {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1;
+}
+
+.language-picker summary {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #d8cde8;
+    border-radius: 0.375rem;
+    background: white;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    cursor: pointer;
+    list-style: none;
+}
+
+.language-picker summary::-webkit-details-marker {
+    display: none;
+}
+
+.language-picker__flag {
+    display: block;
+    width: 24px;
+    height: 16px;
+    object-fit: cover;
+}
+
+.language-picker__chevron {
+    color: #6b6375;
+    font-size: 0.875rem;
+}
+
+.language-picker__menu {
+    position: absolute;
+    top: calc(100% + 0.375rem);
+    right: 0;
+    display: grid;
+    min-width: max-content;
+    padding: 0.25rem;
+    border: 1px solid #d8cde8;
+    border-radius: 0.5rem;
+    background: white;
+    box-shadow: 0 0.25rem 0.75rem rgb(0 0 0 / 12%);
+}
+
+.language-picker__menu button {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    padding: 0.5rem 0.75rem;
+    border: 0;
+    border-radius: 0.375rem;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    text-align: left;
+    cursor: pointer;
+}
+
+.language-picker__menu button:hover,
+.language-picker__menu button[aria-pressed="true"] {
+    background: #f3eff9;
+}
+
+.language-picker__menu button:focus-visible,
+.language-picker summary:focus-visible {
+    outline: 2px solid #6b3db5;
+    outline-offset: 2px;
+}
+
+.page {
+    padding: 2rem;
+}
+
+.page h1 {
+    margin: 0;
+    color: var(--text-h);
+    font-size: 2rem;
+}
+
+.artikel-quiz {
+    max-width: 32rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.artikel-quiz__word {
+    margin: 2rem 0;
+    color: var(--text-h);
+    font-size: 2.5rem;
+}
+
+.artikel-quiz__answers {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.artikel-quiz__word-card {
+    margin: 2rem 0;
+}
+
+.artikel-quiz__setup {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: stretch;
+    gap: 0.75rem;
+    margin: 2rem 0;
+}
+
+.artikel-quiz__topics {
+    display: flex;
+    flex: 1 1 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem 1rem;
+    padding: 1rem;
+    border: 1px solid #d8cde8;
+    border-radius: 0.5rem;
+}
+
+.artikel-quiz__topics legend {
+    padding: 0 0.5rem;
+}
+
+.artikel-quiz__topics label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    cursor: pointer;
+}
+
+.artikel-quiz__topics input {
+    accent-color: #6b3db5;
+}
+
+.artikel-quiz button {
+    padding: 0.75rem 1.5rem;
+    border: 1px solid #6b3db5;
+    border-radius: 0.5rem;
+    color: #6b3db5;
+    background: white;
+    font: inherit;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
+
+.artikel-quiz button:disabled {
+    cursor: default;
+    opacity: 0.6;
+}
+
+.artikel-quiz button.artikel-quiz__answer--correct,
+.artikel-quiz button.artikel-quiz__answer--correct:disabled {
+    border-color: #16803c;
+    color: white;
+    background: #16803c;
+    opacity: 1;
+}
+
+.artikel-quiz button.artikel-quiz__answer--incorrect {
+    border-color: #c62828;
+    color: white;
+    background: #c62828;
+}
+
+.word-import {
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+.word-import__topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.word-import button {
+    padding: 0.75rem 1rem;
+    border: 1px solid #6b3db5;
+    border-radius: 0.5rem;
+    color: #6b3db5;
+    background: white;
+    font: inherit;
+    cursor: pointer;
+}
+
+.word-import button:disabled {
+    cursor: wait;
+    opacity: 0.6;
+}

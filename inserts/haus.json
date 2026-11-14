@@ -1,0 +1,133 @@
+{
+    "topic": "Haus",
+    "words": [
+        { "word": "Haus", "gender": "n", "translations": { "ua": "будинок", "en": "house" } },
+        {
+            "word": "Wohnung",
+            "gender": "f",
+            "translations": { "ua": "квартира", "en": "apartment" }
+        },
+        { "word": "Zimmer", "gender": "n", "translations": { "ua": "кімната", "en": "room" } },
+        { "word": "Küche", "gender": "f", "translations": { "ua": "кухня", "en": "kitchen" } },
+        {
+            "word": "Badezimmer",
+            "gender": "n",
+            "translations": { "ua": "ванна кімната", "en": "bathroom" }
+        },
+        {
+            "word": "Schlafzimmer",
+            "gender": "n",
+            "translations": { "ua": "спальня", "en": "bedroom" }
+        },
+        {
+            "word": "Wohnzimmer",
+            "gender": "n",
+            "translations": { "ua": "вітальня", "en": "living room" }
+        },
+        { "word": "Flur", "gender": "m", "translations": { "ua": "коридор", "en": "hallway" } },
+        { "word": "Tür", "gender": "f", "translations": { "ua": "двері", "en": "door" } },
+        { "word": "Fenster", "gender": "n", "translations": { "ua": "вікно", "en": "window" } },
+        { "word": "Wand", "gender": "f", "translations": { "ua": "стіна", "en": "wall" } },
+        { "word": "Boden", "gender": "m", "translations": { "ua": "підлога", "en": "floor" } },
+        { "word": "Decke", "gender": "f", "translations": { "ua": "стеля", "en": "ceiling" } },
+        { "word": "Dach", "gender": "n", "translations": { "ua": "дах", "en": "roof" } },
+        { "word": "Garten", "gender": "m", "translations": { "ua": "сад", "en": "garden" } },
+        { "word": "Balkon", "gender": "m", "translations": { "ua": "балкон", "en": "balcony" } },
+        { "word": "Treppe", "gender": "f", "translations": { "ua": "сходи", "en": "stairs" } },
+        { "word": "Keller", "gender": "m", "translations": { "ua": "підвал", "en": "cellar" } },
+        { "word": "Garage", "gender": "f", "translations": { "ua": "гараж", "en": "garage" } },
+        { "word": "Schlüssel", "gender": "m", "translations": { "ua": "ключ", "en": "key" } }
+    ],
+    "verbs": [
+        {
+            "word": "wohnen",
+            "translations": { "ua": "мешкати", "en": "to live" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "wohnt",
+            "praeteritum_3sg": "wohnte",
+            "perfekt_form": "gewohnt"
+        },
+        {
+            "word": "putzen",
+            "translations": { "ua": "прибирати", "en": "to clean" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "putzt",
+            "praeteritum_3sg": "putzte",
+            "perfekt_form": "geputzt"
+        },
+        {
+            "word": "aufräumen",
+            "translations": { "ua": "наводити лад", "en": "to tidy up" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "räumt auf",
+            "praeteritum_3sg": "räumte auf",
+            "perfekt_form": "aufgeräumt"
+        },
+        {
+            "word": "öffnen",
+            "translations": { "ua": "відчиняти", "en": "to open" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "öffnet",
+            "praeteritum_3sg": "öffnete",
+            "perfekt_form": "geöffnet"
+        },
+        {
+            "word": "schließen",
+            "translations": { "ua": "зачиняти", "en": "to close" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "schließt",
+            "praeteritum_3sg": "schloss",
+            "perfekt_form": "geschlossen"
+        },
+        {
+            "word": "bauen",
+            "translations": { "ua": "будувати", "en": "to build" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "baut",
+            "praeteritum_3sg": "baute",
+            "perfekt_form": "gebaut"
+        },
+        {
+            "word": "reparieren",
+            "translations": { "ua": "ремонтувати", "en": "to repair" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "repariert",
+            "praeteritum_3sg": "reparierte",
+            "perfekt_form": "repariert"
+        },
+        {
+            "word": "mieten",
+            "translations": { "ua": "орендувати", "en": "to rent" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "mietet",
+            "praeteritum_3sg": "mietete",
+            "perfekt_form": "gemietet"
+        },
+        {
+            "word": "umziehen",
+            "translations": { "ua": "переїжджати", "en": "to move house" },
+            "auxiliary_verb": "sein",
+            "is_irregular": true,
+            "presens_3sg": "zieht um",
+            "praeteritum_3sg": "zog um",
+            "perfekt_form": "umgezogen"
+        },
+        {
+            "word": "schlafen",
+            "translations": { "ua": "спати", "en": "to sleep" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "schläft",
+            "praeteritum_3sg": "schlief",
+            "perfekt_form": "geschlafen"
+        }
+    ]
+}

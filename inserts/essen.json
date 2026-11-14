@@ -1,0 +1,125 @@
+{
+    "topic": "Essen",
+    "words": [
+        { "word": "Essen", "gender": "n", "translations": { "ua": "їжа", "en": "food" } },
+        { "word": "Brot", "gender": "n", "translations": { "ua": "хліб", "en": "bread" } },
+        { "word": "Milch", "gender": "f", "translations": { "ua": "молоко", "en": "milk" } },
+        { "word": "Käse", "gender": "m", "translations": { "ua": "сир", "en": "cheese" } },
+        { "word": "Ei", "gender": "n", "translations": { "ua": "яйце", "en": "egg" } },
+        { "word": "Fleisch", "gender": "n", "translations": { "ua": "м'ясо", "en": "meat" } },
+        { "word": "Fisch", "gender": "m", "translations": { "ua": "риба", "en": "fish" } },
+        { "word": "Gemüse", "gender": "n", "translations": { "ua": "овочі", "en": "vegetables" } },
+        { "word": "Obst", "gender": "n", "translations": { "ua": "фрукти", "en": "fruit" } },
+        { "word": "Apfel", "gender": "m", "translations": { "ua": "яблуко", "en": "apple" } },
+        { "word": "Banane", "gender": "f", "translations": { "ua": "банан", "en": "banana" } },
+        {
+            "word": "Kartoffel",
+            "gender": "f",
+            "translations": { "ua": "картопля", "en": "potato" }
+        },
+        { "word": "Reis", "gender": "m", "translations": { "ua": "рис", "en": "rice" } },
+        { "word": "Nudel", "gender": "f", "translations": { "ua": "локшина", "en": "noodle" } },
+        { "word": "Suppe", "gender": "f", "translations": { "ua": "суп", "en": "soup" } },
+        { "word": "Salat", "gender": "m", "translations": { "ua": "салат", "en": "salad" } },
+        { "word": "Wasser", "gender": "n", "translations": { "ua": "вода", "en": "water" } },
+        { "word": "Kaffee", "gender": "m", "translations": { "ua": "кава", "en": "coffee" } },
+        { "word": "Tee", "gender": "m", "translations": { "ua": "чай", "en": "tea" } },
+        {
+            "word": "Schokolade",
+            "gender": "f",
+            "translations": { "ua": "шоколад", "en": "chocolate" }
+        }
+    ],
+    "verbs": [
+        {
+            "word": "essen",
+            "translations": { "ua": "їсти", "en": "to eat" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "isst",
+            "praeteritum_3sg": "aß",
+            "perfekt_form": "gegessen"
+        },
+        {
+            "word": "trinken",
+            "translations": { "ua": "пити", "en": "to drink" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "trinkt",
+            "praeteritum_3sg": "trank",
+            "perfekt_form": "getrunken"
+        },
+        {
+            "word": "kochen",
+            "translations": { "ua": "готувати", "en": "to cook" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "kocht",
+            "praeteritum_3sg": "kochte",
+            "perfekt_form": "gekocht"
+        },
+        {
+            "word": "backen",
+            "translations": { "ua": "пекти", "en": "to bake" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "backt",
+            "praeteritum_3sg": "buk",
+            "perfekt_form": "gebacken"
+        },
+        {
+            "word": "schneiden",
+            "translations": { "ua": "різати", "en": "to cut" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "schneidet",
+            "praeteritum_3sg": "schnitt",
+            "perfekt_form": "geschnitten"
+        },
+        {
+            "word": "schmecken",
+            "translations": { "ua": "мати смак", "en": "to taste" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "schmeckt",
+            "praeteritum_3sg": "schmeckte",
+            "perfekt_form": "geschmeckt"
+        },
+        {
+            "word": "probieren",
+            "translations": { "ua": "пробувати", "en": "to try" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "probiert",
+            "praeteritum_3sg": "probierte",
+            "perfekt_form": "probiert"
+        },
+        {
+            "word": "bestellen",
+            "translations": { "ua": "замовляти", "en": "to order" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "bestellt",
+            "praeteritum_3sg": "bestellte",
+            "perfekt_form": "bestellt"
+        },
+        {
+            "word": "bezahlen",
+            "translations": { "ua": "платити", "en": "to pay" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "bezahlt",
+            "praeteritum_3sg": "bezahlte",
+            "perfekt_form": "bezahlt"
+        },
+        {
+            "word": "frühstücken",
+            "translations": { "ua": "снідати", "en": "to have breakfast" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "frühstückt",
+            "praeteritum_3sg": "frühstückte",
+            "perfekt_form": "gefrühstückt"
+        }
+    ]
+}

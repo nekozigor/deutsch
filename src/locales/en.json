@@ -1,0 +1,108 @@
+{
+    "languagePicker": {
+        "ariaLabel": "Display language: {{language}}",
+        "menuLabel": "Select display language",
+        "english": "English",
+        "ukrainian": "Ukrainian"
+    },
+    "home": {
+        "title": "Deutsch",
+        "menuLabel": "Main menu",
+        "tests": "Tests",
+        "grammar": "Grammar",
+        "admin": "Admin",
+        "articleTest": "German article quiz",
+        "sein": "sein",
+        "haben": "haben",
+        "definiteArticleDeclension": "Definite article declension",
+        "possessivePronouns": "Possessive pronoun declension",
+        "addWord": "Add a word",
+        "importWords": "Import words"
+    },
+    "common": {
+        "shuffle": "Shuffle",
+        "allRowsCorrect": "Correct! All rows are in the right order."
+    },
+    "haben": {
+        "title": "The verb haben — to have",
+        "description": "Conjugation of haben in the present, simple past, and present perfect."
+    },
+    "sein": {
+        "title": "The verb sein — to be",
+        "description": "Conjugation of sein in the present, simple past, and present perfect."
+    },
+    "articleDeclension": {
+        "title": "Definite article declension",
+        "description": "Shuffle the cells and match the definite article forms with each case, gender, and number.",
+        "question": "Question",
+        "masculine": "Masculine",
+        "feminine": "Feminine",
+        "neuter": "Neuter",
+        "plural": "Plural",
+        "case": "Case"
+    },
+    "possessiveDeclension": {
+        "title": "Possessive pronoun declension",
+        "description": "Forms of the possessive determiner mein before a noun. The same endings are used with dein, sein, ihr, unser, and Ihr.",
+        "masculine": "Masculine",
+        "feminine": "Feminine",
+        "neuter": "Neuter",
+        "plural": "Plural",
+        "case": "Case",
+        "euerNote": "With euer, the second e is usually dropped when an ending is added: eure, euren, eurem."
+    },
+    "artikelQuiz": {
+        "title": "German article quiz",
+        "loadingTopics": "Loading topics...",
+        "topics": "Word topics:",
+        "allWords": "All words",
+        "loadTopicsError": "Could not load topics: {{message}}",
+        "retry": "Retry",
+        "loading": "Loading...",
+        "start": "Start quiz",
+        "finished": "You have reviewed all the words!",
+        "loadingWords": "Loading words...",
+        "wrong": "Incorrect",
+        "correct": "Correct",
+        "answerCorrect": "Correct!",
+        "answerIncorrect": "Incorrect. Try again."
+    },
+    "genderHelp": {
+        "trigger": "How can I identify a noun's gender?",
+        "title": "How can I identify the gender?",
+        "close": "Close",
+        "intro": "In German, it is best to learn a noun together with its article: der, die, or das. The ending can help, but there are exceptions.",
+        "der": "der: days, months, and seasons are often masculine; common endings include -ling, -ismus, and -or.",
+        "die": "die: words ending in -ung, -heit, -keit, -schaft, -ion, and -tät are usually feminine.",
+        "das": "das: words ending in -chen or -lein, and nouns formed from verbs, are often neuter.",
+        "compound": "The gender of a compound word is usually determined by its last part. For example, die Haustür takes its gender from die Tür.",
+        "outro": "If you are unsure, check the word in a dictionary. Learn each noun with its article and an example."
+    },
+    "addWord": {
+        "title": "Add a word (TypeScript + Supabase)",
+        "word": "Word:",
+        "partOfSpeech": "Part of speech:",
+        "submit": "Submit",
+        "saving": "Saving...",
+        "error": "Error: {{message}}",
+        "success": "Word \"{{word}}\" was added successfully."
+    },
+    "wordType": {
+        "noun": "Noun",
+        "verb": "Verb",
+        "adjective": "Adjective",
+        "other": "Other"
+    },
+    "importWords": {
+        "title": "Import words into the database",
+        "description": "Choose a topic to add its nouns and verbs.",
+        "loading": "Loading...",
+        "load": "Import: {{topic}} ({{nouns}} nouns, {{verbs}} verbs)",
+        "success": "Topic \"{{topic}}\": imported {{nouns}} nouns and {{verbs}} verbs.",
+        "error": "Import failed: {{message}}",
+        "fallbackError": "Could not import words.",
+        "missingWordId": "Could not find the ID for word \"{{word}}\".",
+        "missingVerbId": "Could not find the ID for verb \"{{word}}\".",
+        "missingTranslationWordId": "Could not find the ID for word \"{{word}}\" to save its translation."
+    }
+}

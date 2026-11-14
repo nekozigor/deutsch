@@ -1,0 +1,47 @@
+.artikel-gender-help__trigger {
+    margin-top: 1.5rem;
+}
+
+.artikel-gender-help {
+    width: min(36rem, calc(100vw - 2rem));
+    max-height: min(80vh, 42rem);
+    padding: 1.5rem;
+    border: 1px solid #d8cde8;
+    border-radius: 0.75rem;
+    color: #6b6375;
+    background: white;
+    line-height: 1.6;
+}
+
+.artikel-gender-help::backdrop {
+    background: rgb(8 6 13 / 55%);
+}
+
+.artikel-gender-help__header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.artikel-gender-help__header h2 {
+    margin: 0;
+    color: var(--text-h);
+}
+
+.artikel-gender-help ul {
+    padding-left: 1.5rem;
+}
+
+.artikel-gender-help__close {
+    padding: 0 0.5rem;
+    border: 0;
+    color: #6b6375;
+    background: transparent;
+    font-size: 1.75rem;
+    line-height: 1.2;
+}
+
+.artikel-gender-help__close:hover {
+    color: var(--text-h);
+}

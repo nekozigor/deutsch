@@ -1,0 +1,142 @@
+.conjugation-table {
+    max-width: 56rem;
+    margin: 0 auto;
+}
+
+.conjugation-table > p {
+    margin: 0.75rem 0 1.5rem;
+}
+
+.conjugation-table__shuffle {
+    padding: 0.625rem 1rem;
+    border: 1px solid #6b3db5;
+    border-radius: 0.5rem;
+    color: white;
+    background: #6b3db5;
+    font: inherit;
+    cursor: pointer;
+}
+
+.conjugation-table__shuffle:hover {
+    background: #572f96;
+}
+
+.conjugation-table__shuffle:focus-visible,
+.conjugation-table__grid tbody th:focus-visible,
+.conjugation-table__grid tbody td:focus-visible {
+    outline: 2px solid #6b3db5;
+    outline-offset: 3px;
+}
+
+.conjugation-table__status {
+    min-height: 1.5em;
+    color: #16803c;
+    font-weight: 600;
+}
+
+.conjugation-table__wrapper {
+    overflow-x: auto;
+    padding: 0.25rem 0.5rem 0.75rem;
+}
+
+.conjugation-table__grid {
+    width: 100%;
+    min-width: 36rem;
+    border-spacing: 0.5rem 0.625rem;
+    text-align: left;
+}
+
+.conjugation-table__grid th,
+.conjugation-table__grid td {
+    padding: 0.75rem 1rem;
+    border: 1px solid #d8cde8;
+    border-radius: 0.5rem;
+    background: white;
+    box-shadow:
+        0 4px 0 #b9a6d1,
+        0 6px 10px rgb(34 18 54 / 10%);
+    transition:
+        transform 120ms ease,
+        box-shadow 120ms ease;
+}
+
+.conjugation-table__grid th {
+    color: var(--text-h);
+    background: #f3eff9;
+    font-weight: 600;
+}
+
+.conjugation-table__grid tbody td {
+    text-align: center;
+}
+
+.conjugation-table__grid tbody tr:hover th,
+.conjugation-table__grid tbody tr:hover td {
+    transform: translateY(-2px);
+    box-shadow:
+        0 6px 0 #b9a6d1,
+        0 8px 12px rgb(34 18 54 / 12%);
+}
+
+.conjugation-table__grid tbody th[scope="row"] {
+    background: #e8ddf6;
+}
+
+.conjugation-table__grid tbody th[scope="row"],
+.conjugation-table__grid tbody td {
+    cursor: grab;
+}
+
+.conjugation-table__grid tbody th[scope="row"]:active,
+.conjugation-table__grid tbody td:active {
+    cursor: grabbing;
+}
+
+.conjugation-table__grid tbody tr.conjugation-table__row--correct th,
+.conjugation-table__grid tbody tr.conjugation-table__row--correct td {
+    border-color: #16803c;
+    background: #e6f4ea;
+    box-shadow:
+        0 4px 0 #91c6a1,
+        0 6px 10px rgb(22 128 60 / 14%);
+}
+
+.conjugation-table__grid tbody tr.conjugation-table__row--correct th[scope="row"] {
+    background: #cce8d4;
+}
+
+.conjugation-table__grid tbody tr.conjugation-table__row--correct:hover th,
+.conjugation-table__grid tbody tr.conjugation-table__row--correct:hover td {
+    box-shadow:
+        0 6px 0 #91c6a1,
+        0 8px 12px rgb(22 128 60 / 18%);
+}
+
+.conjugation-table__grid tbody td.conjugation-table__cell--drag-over {
+    border-color: #6b3db5;
+    background: #d7c5ef;
+    box-shadow:
+        0 4px 0 #8e6ab8,
+        0 6px 12px rgb(34 18 54 / 22%);
+}
+
+.conjugation-table__grid tbody th[scope="row"].conjugation-table__cell--drag-over {
+    border-color: #6b3db5;
+    background: #d7c5ef;
+    box-shadow:
+        0 4px 0 #8e6ab8,
+        0 6px 12px rgb(34 18 54 / 22%);
+}
+
+@media (max-width: 600px) {
+    .conjugation-table__grid {
+        min-width: 34rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .conjugation-table__grid th,
+    .conjugation-table__grid td {
+        transition: none;
+    }
+}
