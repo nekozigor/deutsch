@@ -2,6 +2,7 @@
 
 ## Supabase local development
 
+hi
 Copy `.env.example` to `.env.local`, then start the local Supabase stack with
 `supabase start`. Run `supabase status -o env` and set `VITE_SUPABASE_URL` to
 `API_URL` and `VITE_SUPABASE_ANON_KEY` to `ANON_KEY` from its output. Restart
