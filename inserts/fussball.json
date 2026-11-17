@@ -1,0 +1,1006 @@
+{
+    "topic": "Fußball",
+    "words": [
+        {
+            "word": "Fußball",
+            "gender": "m",
+            "translations": { "ua": "футбол; футбольний м'яч", "en": "football; soccer ball" }
+        },
+        {
+            "word": "Fußballspiel",
+            "gender": "n",
+            "translations": { "ua": "футбольний матч", "en": "football match" }
+        },
+        { "word": "Spieler", "gender": "m", "translations": { "ua": "гравець", "en": "player" } },
+        {
+            "word": "Spielerin",
+            "gender": "f",
+            "translations": { "ua": "гравчиня", "en": "female player" }
+        },
+        { "word": "Mannschaft", "gender": "f", "translations": { "ua": "команда", "en": "team" } },
+        {
+            "word": "Nationalmannschaft",
+            "gender": "f",
+            "translations": { "ua": "національна збірна", "en": "national team" }
+        },
+        {
+            "word": "Torwart",
+            "gender": "m",
+            "translations": { "ua": "воротар", "en": "goalkeeper" }
+        },
+        {
+            "word": "Torhüter",
+            "gender": "m",
+            "translations": { "ua": "воротар", "en": "goalkeeper" }
+        },
+        {
+            "word": "Torhüterin",
+            "gender": "f",
+            "translations": { "ua": "воротарка", "en": "female goalkeeper" }
+        },
+        {
+            "word": "Abwehrspieler",
+            "gender": "m",
+            "translations": { "ua": "захисник", "en": "defender" }
+        },
+        {
+            "word": "Abwehrspielerin",
+            "gender": "f",
+            "translations": { "ua": "захисниця", "en": "female defender" }
+        },
+        {
+            "word": "Innenverteidiger",
+            "gender": "m",
+            "translations": { "ua": "центральний захисник", "en": "centre-back" }
+        },
+        {
+            "word": "Innenverteidigerin",
+            "gender": "f",
+            "translations": { "ua": "центральна захисниця", "en": "female centre-back" }
+        },
+        {
+            "word": "Außenverteidiger",
+            "gender": "m",
+            "translations": { "ua": "фланговий захисник", "en": "full-back" }
+        },
+        {
+            "word": "Außenverteidigerin",
+            "gender": "f",
+            "translations": { "ua": "флангова захисниця", "en": "female full-back" }
+        },
+        {
+            "word": "Rechtsverteidiger",
+            "gender": "m",
+            "translations": { "ua": "правий захисник", "en": "right-back" }
+        },
+        {
+            "word": "Linksverteidiger",
+            "gender": "m",
+            "translations": { "ua": "лівий захисник", "en": "left-back" }
+        },
+        {
+            "word": "Mittelfeldspieler",
+            "gender": "m",
+            "translations": { "ua": "півзахисник", "en": "midfielder" }
+        },
+        {
+            "word": "Mittelfeldspielerin",
+            "gender": "f",
+            "translations": { "ua": "півзахисниця", "en": "female midfielder" }
+        },
+        {
+            "word": "defensiver Mittelfeldspieler",
+            "gender": "m",
+            "translations": { "ua": "опорний півзахисник", "en": "defensive midfielder" }
+        },
+        {
+            "word": "zentraler Mittelfeldspieler",
+            "gender": "m",
+            "translations": { "ua": "центральний півзахисник", "en": "central midfielder" }
+        },
+        {
+            "word": "offensiver Mittelfeldspieler",
+            "gender": "m",
+            "translations": { "ua": "атакувальний півзахисник", "en": "attacking midfielder" }
+        },
+        {
+            "word": "Spielmacher",
+            "gender": "m",
+            "translations": { "ua": "плеймейкер", "en": "playmaker" }
+        },
+        {
+            "word": "Flügelspieler",
+            "gender": "m",
+            "translations": { "ua": "фланговий гравець", "en": "winger" }
+        },
+        { "word": "Stürmer", "gender": "m", "translations": { "ua": "нападник", "en": "forward" } },
+        {
+            "word": "Stürmerin",
+            "gender": "f",
+            "translations": { "ua": "нападниця", "en": "female forward" }
+        },
+        {
+            "word": "Mittelstürmer",
+            "gender": "m",
+            "translations": { "ua": "центральний нападник", "en": "striker" }
+        },
+        {
+            "word": "Ersatzspieler",
+            "gender": "m",
+            "translations": { "ua": "запасний гравець", "en": "substitute" }
+        },
+        { "word": "Kapitän", "gender": "m", "translations": { "ua": "капітан", "en": "captain" } },
+        { "word": "Trainer", "gender": "m", "translations": { "ua": "тренер", "en": "coach" } },
+        {
+            "word": "Trainerin",
+            "gender": "f",
+            "translations": { "ua": "тренерка", "en": "female coach" }
+        },
+        {
+            "word": "Schiedsrichter",
+            "gender": "m",
+            "translations": { "ua": "суддя", "en": "referee" }
+        },
+        {
+            "word": "Schiedsrichterin",
+            "gender": "f",
+            "translations": { "ua": "суддя", "en": "female referee" }
+        },
+        {
+            "word": "Linienrichter",
+            "gender": "m",
+            "translations": { "ua": "боковий суддя", "en": "assistant referee" }
+        },
+        { "word": "Gegner", "gender": "m", "translations": { "ua": "суперник", "en": "opponent" } },
+        {
+            "word": "Gegnerin",
+            "gender": "f",
+            "translations": { "ua": "суперниця", "en": "female opponent" }
+        },
+        {
+            "word": "Spiel",
+            "gender": "n",
+            "translations": { "ua": "гра; матч", "en": "game; match" }
+        },
+        { "word": "Halbzeit", "gender": "f", "translations": { "ua": "тайм", "en": "half" } },
+        {
+            "word": "Verlängerung",
+            "gender": "f",
+            "translations": { "ua": "додатковий час", "en": "extra time" }
+        },
+        {
+            "word": "Nachspielzeit",
+            "gender": "f",
+            "translations": { "ua": "доданий час", "en": "stoppage time" }
+        },
+        {
+            "word": "Spielstand",
+            "gender": "m",
+            "translations": { "ua": "рахунок матчу", "en": "score" }
+        },
+        { "word": "Sieg", "gender": "m", "translations": { "ua": "перемога", "en": "victory" } },
+        {
+            "word": "Niederlage",
+            "gender": "f",
+            "translations": { "ua": "поразка", "en": "defeat" }
+        },
+        { "word": "Unentschieden", "gender": "n", "translations": { "ua": "нічия", "en": "draw" } },
+        { "word": "Tor", "gender": "n", "translations": { "ua": "гол; ворота", "en": "goal" } },
+        {
+            "word": "Treffer",
+            "gender": "m",
+            "translations": { "ua": "влучний удар; гол", "en": "score; goal" }
+        },
+        {
+            "word": "Eigentor",
+            "gender": "n",
+            "translations": { "ua": "автогол", "en": "own goal" }
+        },
+        {
+            "word": "Hattrick",
+            "gender": "m",
+            "translations": { "ua": "хет-трик", "en": "hat-trick" }
+        },
+        { "word": "Pass", "gender": "m", "translations": { "ua": "пас", "en": "pass" } },
+        { "word": "Flanke", "gender": "f", "translations": { "ua": "навіс", "en": "cross" } },
+        { "word": "Schuss", "gender": "m", "translations": { "ua": "удар", "en": "shot" } },
+        {
+            "word": "Kopfball",
+            "gender": "m",
+            "translations": { "ua": "удар головою", "en": "header" }
+        },
+        {
+            "word": "Dribbling",
+            "gender": "n",
+            "translations": { "ua": "дриблінг", "en": "dribbling" }
+        },
+        {
+            "word": "Zweikampf",
+            "gender": "m",
+            "translations": { "ua": "єдиноборство", "en": "tackle; duel" }
+        },
+        { "word": "Angriff", "gender": "m", "translations": { "ua": "атака", "en": "attack" } },
+        { "word": "Abwehr", "gender": "f", "translations": { "ua": "оборона", "en": "defence" } },
+        {
+            "word": "Konter",
+            "gender": "m",
+            "translations": { "ua": "контратака", "en": "counterattack" }
+        },
+        { "word": "Parade", "gender": "f", "translations": { "ua": "сейв", "en": "save" } },
+        {
+            "word": "Grätsche",
+            "gender": "f",
+            "translations": { "ua": "підкат", "en": "sliding tackle" }
+        },
+        { "word": "Foul", "gender": "n", "translations": { "ua": "фол", "en": "foul" } },
+        {
+            "word": "Elfmeter",
+            "gender": "m",
+            "translations": { "ua": "пенальті", "en": "penalty kick" }
+        },
+        {
+            "word": "Freistoß",
+            "gender": "m",
+            "translations": { "ua": "штрафний удар", "en": "free kick" }
+        },
+        {
+            "word": "Eckball",
+            "gender": "m",
+            "translations": { "ua": "кутовий удар", "en": "corner kick" }
+        },
+        {
+            "word": "Einwurf",
+            "gender": "m",
+            "translations": { "ua": "вкидання з-за бокової", "en": "throw-in" }
+        },
+        {
+            "word": "Anstoß",
+            "gender": "m",
+            "translations": { "ua": "початковий удар", "en": "kick-off" }
+        },
+        {
+            "word": "Abstoß",
+            "gender": "m",
+            "translations": { "ua": "удар від воріт", "en": "goal kick" }
+        },
+        { "word": "Abseits", "gender": "n", "translations": { "ua": "офсайд", "en": "offside" } },
+        {
+            "word": "Abseitsfalle",
+            "gender": "f",
+            "translations": { "ua": "офсайд-пастка", "en": "offside trap" }
+        },
+        {
+            "word": "Strafraum",
+            "gender": "m",
+            "translations": { "ua": "штрафний майданчик", "en": "penalty area" }
+        },
+        {
+            "word": "Torraum",
+            "gender": "m",
+            "translations": { "ua": "воротарський майданчик", "en": "goal area" }
+        },
+        {
+            "word": "Mittellinie",
+            "gender": "f",
+            "translations": { "ua": "середня лінія", "en": "halfway line" }
+        },
+        {
+            "word": "Seitenlinie",
+            "gender": "f",
+            "translations": { "ua": "бокова лінія", "en": "touchline" }
+        },
+        {
+            "word": "Torlinie",
+            "gender": "f",
+            "translations": { "ua": "лінія воріт", "en": "goal line" }
+        },
+        {
+            "word": "Pfosten",
+            "gender": "m",
+            "translations": { "ua": "стійка воріт", "en": "goalpost" }
+        },
+        {
+            "word": "Latte",
+            "gender": "f",
+            "translations": { "ua": "поперечина", "en": "crossbar" }
+        },
+        { "word": "Netz", "gender": "n", "translations": { "ua": "сітка", "en": "net" } },
+        {
+            "word": "Spielfeld",
+            "gender": "n",
+            "translations": { "ua": "ігрове поле", "en": "pitch" }
+        },
+        { "word": "Rasen", "gender": "m", "translations": { "ua": "газон", "en": "grass; turf" } },
+        { "word": "Stadion", "gender": "n", "translations": { "ua": "стадіон", "en": "stadium" } },
+        { "word": "Tribüne", "gender": "f", "translations": { "ua": "трибуна", "en": "stand" } },
+        {
+            "word": "Ersatzbank",
+            "gender": "f",
+            "translations": { "ua": "лавка запасних", "en": "bench" }
+        },
+        {
+            "word": "Aufstellung",
+            "gender": "f",
+            "translations": { "ua": "стартовий склад; розстановка", "en": "line-up; formation" }
+        },
+        {
+            "word": "Formation",
+            "gender": "f",
+            "translations": { "ua": "тактична схема", "en": "formation" }
+        },
+        {
+            "word": "Auswechslung",
+            "gender": "f",
+            "translations": { "ua": "заміна", "en": "substitution" }
+        },
+        {
+            "word": "Training",
+            "gender": "n",
+            "translations": { "ua": "тренування", "en": "training" }
+        },
+        {
+            "word": "Trikot",
+            "gender": "n",
+            "translations": { "ua": "футболка; форма", "en": "jersey; kit" }
+        },
+        {
+            "word": "Stutzen",
+            "gender": "m",
+            "translations": { "ua": "футбольні гетри", "en": "football socks" }
+        },
+        {
+            "word": "Schienbeinschoner",
+            "gender": "m",
+            "translations": { "ua": "щиток", "en": "shin guard" }
+        },
+        {
+            "word": "Fußballschuh",
+            "gender": "m",
+            "translations": { "ua": "футбольна бутса", "en": "football boot" }
+        },
+        {
+            "word": "Torwarthandschuh",
+            "gender": "m",
+            "translations": { "ua": "воротарська рукавичка", "en": "goalkeeper glove" }
+        },
+        {
+            "word": "Fußballfan",
+            "gender": "m",
+            "translations": { "ua": "уболівальник", "en": "fan" }
+        },
+        {
+            "word": "Fußballfanin",
+            "gender": "f",
+            "translations": { "ua": "уболівальниця", "en": "female fan" }
+        },
+        {
+            "word": "Anhänger",
+            "gender": "m",
+            "translations": { "ua": "прихильник команди", "en": "supporter" }
+        },
+        {
+            "word": "Zuschauer",
+            "gender": "m",
+            "translations": { "ua": "глядач", "en": "spectator" }
+        },
+        {
+            "word": "Zuschauerin",
+            "gender": "f",
+            "translations": { "ua": "глядачка", "en": "female spectator" }
+        },
+        {
+            "word": "Fankurve",
+            "gender": "f",
+            "translations": { "ua": "фанатський сектор", "en": "supporters' end" }
+        },
+        {
+            "word": "Fangesang",
+            "gender": "m",
+            "translations": { "ua": "фанатська кричалка", "en": "football chant" }
+        },
+        { "word": "Gesang", "gender": "m", "translations": { "ua": "спів", "en": "singing" } },
+        { "word": "Fahne", "gender": "f", "translations": { "ua": "прапор", "en": "flag" } },
+        { "word": "Schal", "gender": "m", "translations": { "ua": "шарф", "en": "scarf" } },
+        { "word": "Applaus", "gender": "m", "translations": { "ua": "оплески", "en": "applause" } },
+        {
+            "word": "Jubel",
+            "gender": "m",
+            "translations": { "ua": "радісні вигуки", "en": "cheering" }
+        },
+        { "word": "Ticket", "gender": "n", "translations": { "ua": "квиток", "en": "ticket" } },
+        {
+            "word": "Heimspiel",
+            "gender": "n",
+            "translations": { "ua": "домашній матч", "en": "home game" }
+        },
+        {
+            "word": "Auswärtsspiel",
+            "gender": "n",
+            "translations": { "ua": "виїзний матч", "en": "away game" }
+        },
+        { "word": "Derby", "gender": "n", "translations": { "ua": "дербі", "en": "derby" } },
+        { "word": "Liga", "gender": "f", "translations": { "ua": "ліга", "en": "league" } },
+        {
+            "word": "Meisterschaft",
+            "gender": "f",
+            "translations": { "ua": "чемпіонат; першість", "en": "championship" }
+        },
+        { "word": "Pokal", "gender": "m", "translations": { "ua": "кубок", "en": "cup; trophy" } },
+        {
+            "word": "Turnier",
+            "gender": "n",
+            "translations": { "ua": "турнір", "en": "tournament" }
+        },
+        {
+            "word": "Mannschaftsarzt",
+            "gender": "m",
+            "translations": { "ua": "командний лікар", "en": "team doctor" }
+        },
+        { "word": "Punkt", "gender": "m", "translations": { "ua": "очко", "en": "point" } },
+        { "word": "Karte", "gender": "f", "translations": { "ua": "картка", "en": "card" } },
+        {
+            "word": "Gelbe Karte",
+            "gender": "f",
+            "translations": { "ua": "жовта картка", "en": "yellow card" }
+        },
+        {
+            "word": "Rote Karte",
+            "gender": "f",
+            "translations": { "ua": "червона картка", "en": "red card" }
+        }
+    ],
+    "verbs": [
+        {
+            "word": "spielen",
+            "translations": { "ua": "грати", "en": "to play" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "spielt",
+            "praeteritum_3sg": "spielte",
+            "perfekt_form": "gespielt"
+        },
+        {
+            "word": "laufen",
+            "translations": { "ua": "бігати; бігти", "en": "to run" },
+            "auxiliary_verb": "sein",
+            "is_irregular": true,
+            "presens_3sg": "läuft",
+            "praeteritum_3sg": "lief",
+            "perfekt_form": "gelaufen"
+        },
+        {
+            "word": "rennen",
+            "translations": { "ua": "мчати; бігти", "en": "to sprint; run" },
+            "auxiliary_verb": "sein",
+            "is_irregular": true,
+            "presens_3sg": "rennt",
+            "praeteritum_3sg": "rannte",
+            "perfekt_form": "gerannt"
+        },
+        {
+            "word": "sprinten",
+            "translations": { "ua": "спринтувати", "en": "to sprint" },
+            "auxiliary_verb": "sein",
+            "is_irregular": false,
+            "presens_3sg": "sprintet",
+            "praeteritum_3sg": "sprintete",
+            "perfekt_form": "gesprintet"
+        },
+        {
+            "word": "springen",
+            "translations": { "ua": "стрибати", "en": "to jump" },
+            "auxiliary_verb": "sein",
+            "is_irregular": true,
+            "presens_3sg": "springt",
+            "praeteritum_3sg": "sprang",
+            "perfekt_form": "gesprungen"
+        },
+        {
+            "word": "dribbeln",
+            "translations": { "ua": "вести м'яч; дриблювати", "en": "to dribble" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "dribbelt",
+            "praeteritum_3sg": "dribbelte",
+            "perfekt_form": "gedribbelt"
+        },
+        {
+            "word": "passen",
+            "translations": { "ua": "віддавати пас", "en": "to pass" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "passt",
+            "praeteritum_3sg": "passte",
+            "perfekt_form": "gepasst"
+        },
+        {
+            "word": "abspielen",
+            "translations": { "ua": "віддавати м'яч", "en": "to play the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "spielt ab",
+            "praeteritum_3sg": "spielte ab",
+            "perfekt_form": "abgespielt"
+        },
+        {
+            "word": "zuspielen",
+            "translations": { "ua": "пасувати комусь", "en": "to pass to someone" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "spielt zu",
+            "praeteritum_3sg": "spielte zu",
+            "perfekt_form": "zugespielt"
+        },
+        {
+            "word": "flanken",
+            "translations": { "ua": "подавати навіс", "en": "to cross the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "flankt",
+            "praeteritum_3sg": "flankte",
+            "perfekt_form": "geflankt"
+        },
+        {
+            "word": "schießen",
+            "translations": { "ua": "бити по воротах; стріляти", "en": "to shoot" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "schießt",
+            "praeteritum_3sg": "schoss",
+            "perfekt_form": "geschossen"
+        },
+        {
+            "word": "danebenschießen",
+            "translations": { "ua": "промахнутися", "en": "to shoot wide; miss" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "schießt daneben",
+            "praeteritum_3sg": "schoss daneben",
+            "perfekt_form": "danebengeschossen"
+        },
+        {
+            "word": "verfehlen",
+            "translations": { "ua": "не влучити; промахнутися", "en": "to miss; fail to hit" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "verfehlt",
+            "praeteritum_3sg": "verfehlte",
+            "perfekt_form": "verfehlt"
+        },
+        {
+            "word": "treffen",
+            "translations": { "ua": "влучати; забивати", "en": "to hit; score" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "trifft",
+            "praeteritum_3sg": "traf",
+            "perfekt_form": "getroffen"
+        },
+        {
+            "word": "köpfen",
+            "translations": { "ua": "бити головою", "en": "to head the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "köpft",
+            "praeteritum_3sg": "köpfte",
+            "perfekt_form": "geköpft"
+        },
+        {
+            "word": "schlenzen",
+            "translations": { "ua": "перекидати м'яч; підрізати", "en": "to chip the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "schlenzt",
+            "praeteritum_3sg": "schlenzte",
+            "perfekt_form": "geschlenzt"
+        },
+        {
+            "word": "annehmen",
+            "translations": { "ua": "приймати м'яч", "en": "to control; receive the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "nimmt an",
+            "praeteritum_3sg": "nahm an",
+            "perfekt_form": "angenommen"
+        },
+        {
+            "word": "stoppen",
+            "translations": { "ua": "зупиняти м'яч", "en": "to stop the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "stoppt",
+            "praeteritum_3sg": "stoppte",
+            "perfekt_form": "gestoppt"
+        },
+        {
+            "word": "kontrollieren",
+            "translations": { "ua": "контролювати м'яч", "en": "to control the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "kontrolliert",
+            "praeteritum_3sg": "kontrollierte",
+            "perfekt_form": "kontrolliert"
+        },
+        {
+            "word": "schützen",
+            "translations": { "ua": "захищати", "en": "to defend; protect" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "schützt",
+            "praeteritum_3sg": "schützte",
+            "perfekt_form": "geschützt"
+        },
+        {
+            "word": "verteidigen",
+            "translations": { "ua": "захищатися; обороняти", "en": "to defend" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "verteidigt",
+            "praeteritum_3sg": "verteidigte",
+            "perfekt_form": "verteidigt"
+        },
+        {
+            "word": "angreifen",
+            "translations": { "ua": "атакувати", "en": "to attack" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "greift an",
+            "praeteritum_3sg": "griff an",
+            "perfekt_form": "angegriffen"
+        },
+        {
+            "word": "blocken",
+            "translations": { "ua": "блокувати удар", "en": "to block" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "blockt",
+            "praeteritum_3sg": "blockte",
+            "perfekt_form": "geblockt"
+        },
+        {
+            "word": "grätschen",
+            "translations": { "ua": "робити підкат", "en": "to slide-tackle" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "grätscht",
+            "praeteritum_3sg": "grätschte",
+            "perfekt_form": "gegrätscht"
+        },
+        {
+            "word": "foulen",
+            "translations": { "ua": "порушувати правила; фолити", "en": "to foul" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "foult",
+            "praeteritum_3sg": "foulte",
+            "perfekt_form": "gefoult"
+        },
+        {
+            "word": "halten",
+            "translations": { "ua": "ловити; відбивати м'яч", "en": "to save; hold" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "hält",
+            "praeteritum_3sg": "hielt",
+            "perfekt_form": "gehalten"
+        },
+        {
+            "word": "parieren",
+            "translations": { "ua": "парирувати удар", "en": "to parry; save" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "pariert",
+            "praeteritum_3sg": "parierte",
+            "perfekt_form": "pariert"
+        },
+        {
+            "word": "fangen",
+            "translations": { "ua": "ловити м'яч", "en": "to catch the ball" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "fängt",
+            "praeteritum_3sg": "fing",
+            "perfekt_form": "gefangen"
+        },
+        {
+            "word": "abwehren",
+            "translations": { "ua": "відбивати; відвертати", "en": "to fend off; save" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "wehrt ab",
+            "praeteritum_3sg": "wehrte ab",
+            "perfekt_form": "abgewehrt"
+        },
+        {
+            "word": "abfangen",
+            "translations": { "ua": "перехоплювати м'яч", "en": "to intercept" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "fängt ab",
+            "praeteritum_3sg": "fing ab",
+            "perfekt_form": "abgefangen"
+        },
+        {
+            "word": "klären",
+            "translations": {
+                "ua": "вибивати м'яч із небезпечної зони",
+                "en": "to clear the ball"
+            },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "klärt",
+            "praeteritum_3sg": "klärte",
+            "perfekt_form": "geklärt"
+        },
+        {
+            "word": "retten",
+            "translations": { "ua": "рятувати; відбивати", "en": "to rescue; make a save" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "rettet",
+            "praeteritum_3sg": "rettete",
+            "perfekt_form": "gerettet"
+        },
+        {
+            "word": "schlagen",
+            "translations": { "ua": "вибивати; бити", "en": "to kick; strike" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "schlägt",
+            "praeteritum_3sg": "schlug",
+            "perfekt_form": "geschlagen"
+        },
+        {
+            "word": "einwerfen",
+            "translations": { "ua": "вкидати м'яч з-за бокової", "en": "to take a throw-in" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "wirft ein",
+            "praeteritum_3sg": "warf ein",
+            "perfekt_form": "eingeworfen"
+        },
+        {
+            "word": "ecken",
+            "translations": { "ua": "подавати кутовий", "en": "to take a corner" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "eckt",
+            "praeteritum_3sg": "eckte",
+            "perfekt_form": "geeckt"
+        },
+        {
+            "word": "anstoßen",
+            "translations": { "ua": "розігрувати початковий удар", "en": "to kick off" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "stößt an",
+            "praeteritum_3sg": "stieß an",
+            "perfekt_form": "angestoßen"
+        },
+        {
+            "word": "pfeifen",
+            "translations": { "ua": "свистіти; судити матч", "en": "to whistle; referee" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "pfeift",
+            "praeteritum_3sg": "pfiff",
+            "perfekt_form": "gepfiffen"
+        },
+        {
+            "word": "entscheiden",
+            "translations": { "ua": "ухвалювати рішення", "en": "to decide" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "entscheidet",
+            "praeteritum_3sg": "entschied",
+            "perfekt_form": "entschieden"
+        },
+        {
+            "word": "verwarnen",
+            "translations": {
+                "ua": "попереджати; показувати жовту картку",
+                "en": "to book; caution"
+            },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "verwarnt",
+            "praeteritum_3sg": "verwarnte",
+            "perfekt_form": "verwarnt"
+        },
+        {
+            "word": "auswechseln",
+            "translations": { "ua": "замінювати гравця", "en": "to substitute a player" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "wechselt aus",
+            "praeteritum_3sg": "wechselte aus",
+            "perfekt_form": "ausgewechselt"
+        },
+        {
+            "word": "einwechseln",
+            "translations": { "ua": "випускати на заміну", "en": "to bring on as a substitute" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "wechselt ein",
+            "praeteritum_3sg": "wechselte ein",
+            "perfekt_form": "eingewechselt"
+        },
+        {
+            "word": "aufstellen",
+            "translations": { "ua": "виставляти склад", "en": "to field; line up" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "stellt auf",
+            "praeteritum_3sg": "stellte auf",
+            "perfekt_form": "aufgestellt"
+        },
+        {
+            "word": "gewinnen",
+            "translations": { "ua": "перемагати", "en": "to win" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "gewinnt",
+            "praeteritum_3sg": "gewann",
+            "perfekt_form": "gewonnen"
+        },
+        {
+            "word": "verlieren",
+            "translations": { "ua": "програвати; втрачати", "en": "to lose" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "verliert",
+            "praeteritum_3sg": "verlor",
+            "perfekt_form": "verloren"
+        },
+        {
+            "word": "führen",
+            "translations": { "ua": "вести в рахунку", "en": "to lead" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "führt",
+            "praeteritum_3sg": "führte",
+            "perfekt_form": "geführt"
+        },
+        {
+            "word": "ausgleichen",
+            "translations": { "ua": "зрівнювати рахунок", "en": "to equalize" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "gleicht aus",
+            "praeteritum_3sg": "glich aus",
+            "perfekt_form": "ausgeglichen"
+        },
+        {
+            "word": "zurückliegen",
+            "translations": { "ua": "відставати в рахунку", "en": "to be behind" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "liegt zurück",
+            "praeteritum_3sg": "lag zurück",
+            "perfekt_form": "zurückgelegen"
+        },
+        {
+            "word": "jubeln",
+            "translations": { "ua": "радіти; святкувати гол", "en": "to celebrate; cheer" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "jubelt",
+            "praeteritum_3sg": "jubelte",
+            "perfekt_form": "gejubelt"
+        },
+        {
+            "word": "anfeuern",
+            "translations": { "ua": "підбадьорювати; підтримувати", "en": "to cheer on" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "feuert an",
+            "praeteritum_3sg": "feuerte an",
+            "perfekt_form": "angefeuert"
+        },
+        {
+            "word": "singen",
+            "translations": { "ua": "співати", "en": "to sing" },
+            "auxiliary_verb": "haben",
+            "is_irregular": true,
+            "presens_3sg": "singt",
+            "praeteritum_3sg": "sang",
+            "perfekt_form": "gesungen"
+        },
+        {
+            "word": "feiern",
+            "translations": { "ua": "святкувати", "en": "to celebrate" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "feiert",
+            "praeteritum_3sg": "feierte",
+            "perfekt_form": "gefeiert"
+        },
+        {
+            "word": "trainieren",
+            "translations": { "ua": "тренуватися; тренувати", "en": "to train" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "trainiert",
+            "praeteritum_3sg": "trainierte",
+            "perfekt_form": "trainiert"
+        },
+        {
+            "word": "aufwärmen",
+            "translations": { "ua": "розминатися; розминати", "en": "to warm up" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "wärmt auf",
+            "praeteritum_3sg": "wärmte auf",
+            "perfekt_form": "aufgewärmt"
+        },
+        {
+            "word": "wechseln",
+            "translations": { "ua": "мінятися; змінювати", "en": "to change; substitute" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "wechselt",
+            "praeteritum_3sg": "wechselte",
+            "perfekt_form": "gewechselt"
+        },
+        {
+            "word": "zurückpassen",
+            "translations": { "ua": "віддавати пас назад", "en": "to pass back" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "passt zurück",
+            "praeteritum_3sg": "passte zurück",
+            "perfekt_form": "zurückgepasst"
+        },
+        {
+            "word": "herauslaufen",
+            "translations": {
+                "ua": "виходити з воріт назустріч м'ячу",
+                "en": "to rush off the line"
+            },
+            "auxiliary_verb": "sein",
+            "is_irregular": true,
+            "presens_3sg": "läuft heraus",
+            "praeteritum_3sg": "lief heraus",
+            "perfekt_form": "herausgelaufen"
+        },
+        {
+            "word": "zurückkommen",
+            "translations": { "ua": "повертатися", "en": "to come back" },
+            "auxiliary_verb": "sein",
+            "is_irregular": true,
+            "presens_3sg": "kommt zurück",
+            "praeteritum_3sg": "kam zurück",
+            "perfekt_form": "zurückgekommen"
+        },
+        {
+            "word": "aufhören",
+            "translations": { "ua": "припиняти; закінчувати", "en": "to stop; end" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "hört auf",
+            "praeteritum_3sg": "hörte auf",
+            "perfekt_form": "aufgehört"
+        },
+        {
+            "word": "mitspielen",
+            "translations": {
+                "ua": "грати разом; брати участь у грі",
+                "en": "to play along; take part"
+            },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "spielt mit",
+            "praeteritum_3sg": "spielte mit",
+            "perfekt_form": "mitgespielt"
+        },
+        {
+            "word": "schaffen",
+            "translations": { "ua": "встигати; спромагатися", "en": "to manage; make it" },
+            "auxiliary_verb": "haben",
+            "is_irregular": false,
+            "presens_3sg": "schafft",
+            "praeteritum_3sg": "schaffte",
+            "perfekt_form": "geschafft"
+        }
+    ]
+}
