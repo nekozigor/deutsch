@@ -12,6 +12,7 @@
         "grammar": "Grammar",
         "admin": "Admin",
         "articleTest": "German article quiz",
+        "wordBankTest": "Build a German sentence",
         "sein": "sein",
         "haben": "haben",
         "definiteArticleDeclension": "Definite article declension",
@@ -66,6 +67,24 @@
         "correct": "Correct",
         "answerCorrect": "Correct!",
         "answerIncorrect": "Incorrect. Try again."
+    },
+    "wordBankTest": {
+        "title": "Build the German sentence",
+        "description": "Build each German translation from the tiles. Chosen tiles stay in the bank and turn gray.",
+        "instruction": "Translate into German",
+        "answerLabel": "Your answer",
+        "placeholder": "Choose words below to build your sentence.",
+        "wordBankLabel": "Available words",
+        "removeWord": "Remove {{word}}",
+        "check": "Check answer",
+        "clear": "Clear",
+        "continue": "Continue",
+        "finish": "Finish",
+        "restart": "Try again",
+        "progress": "Sentence {{current}} of {{total}}",
+        "correct": "Correct!",
+        "incorrect": "Not quite. Change the words and try again.",
+        "finished": "Great work! You completed all the sentences."
     },
     "genderHelp": {
         "trigger": "How can I identify a noun's gender?",

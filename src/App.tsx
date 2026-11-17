@@ -12,6 +12,7 @@ import { Route as SeinRoute } from "./routes/sein"
 import { Route as HabenRoute } from "./routes/haben"
 import { Route as ArtikelDeklinationRoute } from "./routes/artikel-deklination"
 import { Route as PossessivpronomenRoute } from "./routes/possessivpronomen"
+import { Route as TranslateToGermanRoute } from "./routes/translate-to-german"
 
 const routeTree = RootRoute.addChildren([
     IndexRoute,
@@ -20,6 +21,7 @@ const routeTree = RootRoute.addChildren([
     HabenRoute,
     ArtikelDeklinationRoute,
     PossessivpronomenRoute,
+    TranslateToGermanRoute,
     AddWordRoute,
     ImportWordsRoute,
 ])

@@ -208,6 +208,233 @@
     background: #c62828;
 }
 
+.word-bank-test {
+    max-width: 44rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.word-bank-test__progress {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 2rem 0;
+    color: var(--text-h);
+    font-weight: 600;
+}
+
+.word-bank-test__progress-track {
+    flex: 1;
+    height: 0.65rem;
+    overflow: hidden;
+    border-radius: 999px;
+    background: #e7e2ee;
+}
+
+.word-bank-test__progress-track div {
+    height: 100%;
+    border-radius: inherit;
+    background: #6b3db5;
+    transition: width 180ms ease;
+}
+
+.word-bank-test__prompt {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid #d8cde8;
+    border-radius: 1rem;
+    background: white;
+    box-shadow: 0 4px 0 #b9a6d1;
+    text-align: left;
+}
+
+.word-bank-test__prompt > span {
+    display: grid;
+    width: 2.5rem;
+    height: 2.5rem;
+    flex: 0 0 auto;
+    place-items: center;
+    border-radius: 50%;
+    color: white;
+    background: #6b3db5;
+    font-size: 1.25rem;
+}
+
+.word-bank-test__prompt p {
+    margin: 0;
+    color: var(--text-h);
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.word-bank-test__instruction {
+    margin: 1.5rem 0 0.5rem;
+    color: #5d5568;
+    text-align: left;
+}
+
+.word-bank-test__answer {
+    display: flex;
+    min-height: 5rem;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    gap: 0.55rem;
+    padding: 0.75rem;
+    border-bottom: 2px solid #cfc5dd;
+}
+
+.word-bank-test__placeholder {
+    color: #81798b;
+}
+
+.word-bank-test__tiles {
+    display: grid;
+    grid-template-columns: repeat(6, max-content);
+    grid-template-rows: repeat(2, auto);
+    grid-auto-flow: row;
+    justify-content: center;
+    justify-items: center;
+    gap: 0.65rem 0.5rem;
+    margin: 1.5rem 0;
+    overflow-x: auto;
+}
+
+@media (max-width: 40rem) {
+    .word-bank-test__tiles {
+        justify-content: start;
+    }
+}
+
+.word-bank-test button {
+    min-height: 2.75rem;
+    padding: 0.55rem 1rem;
+    border: 1px solid #c9bddb;
+    border-bottom-width: 3px;
+    border-radius: 0.65rem;
+    color: #352a44;
+    background: white;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.word-bank-test .word-bank-test__tile {
+    width: max-content;
+    min-width: 0;
+    padding-right: 0.8rem;
+    padding-left: 0.8rem;
+    justify-self: center;
+}
+
+.word-bank-test .word-bank-test__tile--selected,
+.word-bank-test .word-bank-test__tile--selected:disabled {
+    border-color: #c9c4d0;
+    border-bottom-color: #aaa4b2;
+    color: #77717f;
+    background: #e8e6eb;
+    opacity: 1;
+}
+
+.word-bank-test .word-bank-test__tile--correct,
+.word-bank-test .word-bank-test__tile--correct:disabled {
+    border-color: #16803c;
+    border-bottom-color: #11632e;
+    color: white;
+    background: #16803c;
+    opacity: 1;
+}
+
+.word-bank-test .word-bank-test__tile--incorrect {
+    border-color: #c62828;
+    border-bottom-color: #a51f1f;
+    color: white;
+    background: #c62828;
+}
+
+.word-bank-test button:hover:not(:disabled) {
+    background: #f7f3fc;
+}
+
+.word-bank-test button:focus-visible {
+    outline: 2px solid #6b3db5;
+    outline-offset: 2px;
+}
+
+.word-bank-test button:disabled {
+    cursor: default;
+    opacity: 0.65;
+}
+
+.word-bank-test__actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+}
+
+.word-bank-test__actions > button:first-child {
+    min-width: 10rem;
+    border-color: #6b3db5;
+    border-bottom-color: #4a2784;
+    color: white;
+    background: #6b3db5;
+}
+
+.word-bank-test__actions > button:first-child:disabled {
+    border-color: #b6a8ca;
+    background: #b6a8ca;
+}
+
+.word-bank-test .word-bank-test__clear {
+    color: #6b3db5;
+}
+
+.word-bank-test__feedback {
+    min-height: 1.5rem;
+    margin: 1rem 0 0;
+    font-weight: 700;
+}
+
+.word-bank-test__feedback--correct {
+    color: #16803c;
+}
+
+.word-bank-test__feedback--incorrect {
+    color: #b42318;
+}
+
+.word-bank-test__finished {
+    margin-top: 2rem;
+    padding: 2rem;
+    border: 1px solid #d8cde8;
+    border-radius: 1rem;
+    background: white;
+}
+
+.word-bank-test__finished p {
+    margin-top: 0;
+    color: var(--text-h);
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+@media (max-width: 40rem) {
+    .word-bank-test__tiles {
+        justify-content: start;
+        gap: 0.45rem 0.25rem;
+    }
+
+    .word-bank-test .word-bank-test__tile {
+        padding-right: 0.35rem;
+        padding-left: 0.35rem;
+        font-size: 0.875rem;
+    }
+}
+
 .word-import {
     max-width: 40rem;
     margin: 0 auto;

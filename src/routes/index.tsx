@@ -13,6 +13,7 @@ function HomePage() {
                 <section className="home__group">
                     <h2>{t("home.tests")}</h2>
                     <Link to="/artikel">{t("home.articleTest")}</Link>
+                    <Link to="/translate-to-german">{t("home.wordBankTest")}</Link>
                 </section>
                 <section className="home__group">
                     <h2>{t("home.grammar")}</h2>
